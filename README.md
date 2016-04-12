@@ -1,1 +1,1 @@
-# Setups for Vargant VMs.
+# Setups for Vagrant VMs.
