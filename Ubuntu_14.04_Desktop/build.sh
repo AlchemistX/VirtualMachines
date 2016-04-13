@@ -1,5 +1,4 @@
 #!/bin/bash
-sudo route add default gw 192.168.0.1
 mkdir WORK
 pushd WORK
 git clone git://git.gnome.org/jhbuild
